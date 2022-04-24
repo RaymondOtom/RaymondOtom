@@ -7,3 +7,6 @@
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/itsmeraymond007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsmeraymondd) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/otomraymond/)
+
+For contact:
+- :email: otomraymond@gmail.com
