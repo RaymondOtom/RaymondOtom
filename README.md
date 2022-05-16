@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=ff4200&size=20&width=500&lines=Social+Media+Accounts👇👇👇;Reach+me+out!)](https://git.io/typing-svg)
 
 
-<p align ="center">
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/itsmeraymond007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsmeraymondd) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/otomraymond/)
 
 For contact:
