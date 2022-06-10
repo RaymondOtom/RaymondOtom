@@ -1,5 +1,5 @@
 
-# Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm RAYMOND OTOM (🐱‍💻💻)
+# Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="10px" alt="hi">, I'm RAYMOND OTOM (🐱‍💻💻)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=00eb17&size=30&width=500&lines=FUTURE+COMPUTER+ENGINEER....)](https://git.io/typing-svg)
 
