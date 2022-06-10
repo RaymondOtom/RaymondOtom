@@ -10,7 +10,7 @@
 <br />
 
 <!--For adding Gif
-<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
+<p><img align="right" alt="GIF" src="https://github.com/RaymondOtom/RaymondOtom/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
 
 
 
