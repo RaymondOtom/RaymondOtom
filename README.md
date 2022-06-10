@@ -1,5 +1,5 @@
 
-# Hi <<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm RAYMOND OTOM (🐱‍💻💻)
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm RAYMOND OTOM (🐱‍💻💻)</h1 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=00eb17&size=30&width=500&lines=FUTURE+COMPUTER+ENGINEER....)](https://git.io/typing-svg)
 
