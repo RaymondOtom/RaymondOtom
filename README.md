@@ -4,7 +4,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Eagerness+To+Learn;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=4078c0&width=380&height=45&lines=Open-Source+Enthusiast;Eagerness+To+Learn;Nice+To+Meet+You+...&center=true"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=RaymondOtom.RaymondOtom)
 <br />
