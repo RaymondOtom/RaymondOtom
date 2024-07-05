@@ -13,7 +13,7 @@
 <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors Degree. </br>
 
 
 
